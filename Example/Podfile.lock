@@ -1,0 +1,16 @@
+PODS:
+  - PPService (0.1.0)
+
+DEPENDENCIES:
+  - PPService (from `../`)
+
+EXTERNAL SOURCES:
+  PPService:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PPService: 0baf780b2eadb68fa20ce6420b8b58ccedb1cc83
+
+PODFILE CHECKSUM: 8a2b2f5f420ff7e7dd5b9dc2dd95db278fb06e82
+
+COCOAPODS: 1.8.4

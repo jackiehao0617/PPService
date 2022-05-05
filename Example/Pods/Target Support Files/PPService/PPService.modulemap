@@ -1,0 +1,6 @@
+framework module PPService {
+  umbrella header "PPService-umbrella.h"
+
+  export *
+  module * { export * }
+}

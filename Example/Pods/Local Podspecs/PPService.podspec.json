@@ -1,0 +1,22 @@
+{
+  "name": "PPService",
+  "version": "0.1.0",
+  "summary": "A short description of PPService.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/haopf@rgnet.cn/PPService",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "haopf@rgnet.cn": "15090633612@163.com"
+  },
+  "source": {
+    "git": "https://github.com/haopf@rgnet.cn/PPService.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PPService/Classes/**/*"
+}
